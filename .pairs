@@ -1,5 +1,6 @@
-dg : daniel garcia
-bb : benjamin bressler
-
-dg : danny.garcia80@hotmail.com
-bb : bressleb@gmail.com
+pairs:
+  dg: daniel garcia
+  bb: benjamin bressler
+email:
+  dg: danny.garcia80@hotmail.com
+  bb: bressleb@gmail.com
